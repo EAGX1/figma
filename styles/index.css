@@ -1,0 +1,64 @@
+.logo {
+    Font family: Inter
+    Font style: Regular
+    Font size: 40px
+    Line height: 48px
+    Line height: 100%
+    Align: Left
+    Vertical align: Top
+    Fill: Solid
+    color: #000000;
+    margin-top: 48px;
+    margin-left: 62px;
+
+}
+
+.logo-dot {
+    color: aqua;
+}
+
+section {
+    display: inline-block;
+}
+
+.main-title {
+    Font family: Inter
+    Font style: Regular
+    Font size: 40px
+    Line height: 48px
+    Line height: 100%
+    Align: Left
+    Vertical align: Top
+    Fill: Solid
+    #000000
+}
+
+.main-info {
+    Font family: Inter
+    Font style: Regular
+    Font size: 16px
+    Line height: 19px
+    Line height: 100%
+    Align: Left
+    Vertical align: Top
+    Fill: Solid
+    #000000
+}
+
+.main-btn {
+    width: 115;
+    height: 48;
+    margin-top: 66;
+    margin-left: 241;
+    Fill: Solid
+    #D9D9D9
+    Font family: Inter
+    Font style: Regular
+    Font size: 16px
+    Line height: 19px
+    Line height: 100%
+    Align: Left
+    Vertical align: Top
+    Fill: Solid
+    #000000
+}
