@@ -61,3 +61,7 @@ section {
     Fill: Solid;
     color: #000000;
 }
+
+img {
+    border: 1px solid black;
+}
